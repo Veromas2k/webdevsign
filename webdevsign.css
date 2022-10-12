@@ -1,0 +1,58 @@
+html{
+	color: white;
+	background-color: #0f1f40;
+}
+
+body{
+	margin: 0px;
+}
+
+.content-wrapper{
+	width: 60%;
+	margin: auto;
+	background-color: #1d3159;
+}
+
+.header-wrapper{
+	height: 7vw;
+	text-align: center;
+}
+
+h1{
+	height: 3vw;
+	margin: 0px;
+	padding: 1vw;
+	font-size: 2.9vw;
+}
+
+.navigation-wrapper{
+	height: 2vw;
+	margin: 0px;
+	text-align: center;
+	background-color: #1d3170;
+}
+
+.navigation{
+	height: 100%;
+	width: 90%;
+	margin: auto;
+}
+
+a{
+	width: 20%;
+	margin: 0px;
+	float: left;
+	display: block;
+	font-size: 1.9vw;
+}
+
+a:hover{
+	color: grey;
+	background-color: #1d3159;
+}
+
+.content{
+	width: 70%;
+	height: 1000px;
+	margin: auto;
+}
